@@ -13,6 +13,23 @@
 2. Search `adafruit mqtt`
 3. Click install
 
+### Hardware Used
+- NodeMCU ESP8266
+- Relay module
+- One 3W bulb
+
+### Using platform
+- Google Assistant
+- Adafruit
+- IFTTT
+
+### Setup platform
+1. Login [adafruit](Adafruit.com)
+2. Click IO
+<img src='img/io.png' alt='io'/>
+3. Select Dashboards
+<img src='img/dashboards.png' alt='dashboards'/>
+
 ---
 **Setup pin**
 | nodemcu esp8266 | relay |
