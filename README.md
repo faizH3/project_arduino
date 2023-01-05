@@ -29,6 +29,14 @@
 <img src='img/io.png' alt='io'/>
 3. Select Dashboards
 <img src='img/dashboards.png' alt='dashboards'/>
+4. Click New Dashboard
+<img src='img/newdashboard.png' alt='newdashboard'>
+5. create name
+<img src='img/1.png'/>
+6. Click name
+<img src='img/2.png'/>
+7. 
+<img src='img/3.png'/>
 
 ---
 **Setup pin**
