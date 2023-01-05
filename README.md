@@ -50,8 +50,16 @@
 9. 
 <img src='img/5.png'/>
 
-10. 
+10. Enter new feed name
+<img src='img/6.png'/>
 
+11. select your feed name & next step
+<img src='img/7.png'/>
+
+12. create block
+<img src='img/8.png'/>
+
+13. 
 
 ---
 **Setup pin**
